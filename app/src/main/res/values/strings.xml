@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MemoRan</string>
+    <string name="et_search">검색어를 입력하세요</string>
+    <string name="plus">+</string>
+    <string name="write">메모 작성</string>
+    <string name="title">Title</string>
+    <string name="sample_content">This is content</string>
+    <string name="show">메모 보기</string>
+</resources>
